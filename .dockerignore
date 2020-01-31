@@ -1,0 +1,4 @@
+/csv
+/logs
+**/node_modules
+.vscode
