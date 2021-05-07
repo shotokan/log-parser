@@ -18,7 +18,7 @@
     "event-stream": "^4.0.1",
     "is-ip": "^3.1.0",
     "short-uuid": "^3.1.1",
-    "ua-parser-js": "^0.7.21"
+    "ua-parser-js": "^0.7.24"
   },
   "devDependencies": {
     "jest": "^25.1.0",
